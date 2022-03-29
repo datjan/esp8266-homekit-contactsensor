@@ -51,7 +51,7 @@ const char *password = "xxx"; // SETUP Wlan password
 ## Upload to device
 Following files needs to be uploaded to the ESP8266 (D1 mini)
 ```
-esp8266-homekit-button.ino
+esp8266-homekit-contactsensor.ino
 my_accessory.c
 wifi_info.h
 ```
