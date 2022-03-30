@@ -24,6 +24,7 @@ GND -> 10kOhm -> Contact sensor Pin A
 D1 -> Contact sensor Pin A
 3V3 -> Contact sensor Pin B
 ```
+![alt text](https://github.com/datjan/esp8266-homekit-contactsensor/blob/main/connection-schema.png?raw=true)
 
 ## Development
 This sketch is for following development environment
